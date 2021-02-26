@@ -1,0 +1,14 @@
+{
+    "name": "auvatov/hexlet-php",
+    "description": "project for training",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "auvatov",
+            "email": "auvatov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
