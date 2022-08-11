@@ -1,2 +1,1 @@
-# hexlet-php
-my first project
+Мой первый проект на Хекслете
