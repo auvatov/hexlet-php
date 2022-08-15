@@ -1,0 +1,16 @@
+{
+    "name": "auvatov/example",
+    "description": "expample package",
+    "autoload": {
+        "psr-4": {
+            "Auvatov\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey Uvatov",
+            "email": "auvatov@gmail.com"
+        }
+    ],
+    "require": {}
+}
